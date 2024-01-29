@@ -22,7 +22,7 @@ Please ensure your configurations are well-documented, and any dependencies or p
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the configuration files as needed.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the configuration files as needed.
 
 ## 📬 Contact
 
